@@ -7,6 +7,7 @@ public class ProyectoVers {
 	public static void main(String[] args) {
 		JOptionPane.showMessageDialog(null, "Eta vaina e seria");
 		JOptionPane.showMessageDialog(null, "heheheh");
+		JOptionPane.showMessageDialog(null, "Hemo sido recuperado");
 	}
 
 }
